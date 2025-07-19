@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+python-dotenv
+feedparser
+beautifulsoup4
+requests
+scikit-learn
+pytest
